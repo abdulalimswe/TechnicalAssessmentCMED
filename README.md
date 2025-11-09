@@ -2,19 +2,15 @@
 
 A modern, full-stack management application for managing patient prescriptions, drug interactions, and medical reports.
 
-## 📋 Table of Contents
+## 📋 Features
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+![Login](./img/Login.png)
+![Dashboard](./img/Dashboard.png)
+![Prescriptions](./img/Prescriptions.png)
+![Image](./img/Report.png)
+
+
+
 
 ## 🎯 Overview
 
