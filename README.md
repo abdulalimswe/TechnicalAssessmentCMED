@@ -1,6 +1,6 @@
 # 🏥 CMED Health LTD
 
-A modern, full-stac management application for managing patient prescriptions, drug interactions, and medical reports.
+A modern, full-stack management application for managing patient prescriptions, drug interactions, and medical reports.
 
 ## 📋 Table of Contents
 
