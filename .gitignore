@@ -93,4 +93,5 @@ coverage/
 # Process IDs
 .backend.pid
 .frontend.pid
+application.properties
 
